@@ -10,10 +10,10 @@
   </style>
 </head>
 <body>
-  <h1>产品拍摄</h1>
+  <h1>ip-15英文</h1>
   <video src="public/产品视频1.mp4" controls></video>
 
-  <h1>公司活动</h1>
+  <h1>op-RENZ</h1>
   <video src="public/活动视频1.mp4" controls></video>
 </body>
 </html>
